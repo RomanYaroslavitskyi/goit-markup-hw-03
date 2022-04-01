@@ -22,6 +22,12 @@ body {
   text-decoration: none;
 }
 /***************************HEADER*******************/
+.header{
+  background-color: #fff;
+}
+.container{
+
+}
 .header-link {
   font-weight: 500;
   font-size: 14px;
