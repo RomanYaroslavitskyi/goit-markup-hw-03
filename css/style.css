@@ -65,7 +65,7 @@ body {
     padding-top: 24px;
     padding-bottom: 25px;
     min-height: 80px;
-    border: 1px solid #ECECEC;
+    border-bottom: 1px solid #ECECEC;
 }
 
 .header-logo-link {
@@ -239,6 +239,7 @@ body {
     min-height: 648px;
     background: var(--background-team);
     padding-bottom: 94px;
+    padding-top: 94px;
 }
 
 .team-tittle {
